@@ -4,8 +4,7 @@ title: Welcome to the club!
 excerpt: "Hi, I'm Martin..."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: dusty.jpg
-  credit: Martin Dawson
+  feature: dustythin.jpg
 
 ---
 
