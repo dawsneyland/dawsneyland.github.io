@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Mart
-  avatar: dusty.jpg
+  avatar: dustsquare.jpg
   email: martsblogclub@gmail.com
   disqus-shortname:
   twitter: martsblogclub
