@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-Blogs. Articles. What's the difference? At the moment, I don't know but let me try and explain...
+Blogs. Articles. What's the difference? Actually, I don't know. Let's try and figure it out together.
 
 # Blogs
 A blog, in my mind is like a diary entry. Possibly something that entered my mind or that I saw that I felt I needed to document in some way. Maybe it's funny; maybe it's poignant. It may justify a paragraph on this blog or it may deserve quite a few, but I feel it is a little more spontaneous than...
@@ -21,4 +21,4 @@ A blog, in my mind is like a diary entry. Possibly something that entered my min
 # Articles
 Something more substantial. An idea I've been working on for some time, or a story to tell that Ive been trying to get just right. An regular feature or part of a series. Given this is one of my first posts, I have no idea the direction this website is going in or how long I'll stick at it.
 
-In my head, that is the difference between and blog and an article.
+In my head, that is the difference between and blog and an article. But anyway, if you land on the homepage, it'll show you both. Potato potato (That doesn't really work when you type it).
