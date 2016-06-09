@@ -10,7 +10,7 @@ share: true
 ---
 
 <figure>
-	<img src="/images/camera.jpg" alt="camera">
+	<img src="{{ site.url }}/images/camera.jpg" alt="camera">
 	<figcaption>Erm... can someone give me my face back, please.</figcaption>
 </figure>
 
@@ -24,7 +24,7 @@ Another reason I enjoy doing this is the reaction it gets from my family. They a
 
 It does my mental health the world of good when I've made a film and distributed it to the handful of people who will be interested it.
 
-Although I’d like to think that my close family enjoy these videos because I’m a talented filmmaker, the reality is that this end result is straight forward to achieve. For a start, I’m filming things they will want to see… their children, their Nephews and Nieces. I discard all the naff stuff and keep the good content. Also, I don’t have to provide any dialogue. I just chose a song to set the tone and let it play as the background track from start to finish, fitting all the clips in during that time. I'm basically shooting a music video. And lastly, the easiest thing for me is that I am always behind the camera so never have to be the subject which is just as well as I hate to see or hear myself in any media. I just have to try and take the time to capture a variety of footage with a camera that will pretty much do the job automatically as long as I point it in the right direction. Ok, maybe I’m being a little hard on myself, but you get the idea.
+Although I’d like to think that my close family enjoy these videos because I’m a talented filmmaker, the reality is that this end result is straight forward to achieve. For a start, I’m filming things they will want to see… their children, their Nephews and Nieces. I discard all the naff stuff and keep the good content. Also, I don’t have to provide any dialogue. I just choose a song to set the tone and let it play as the background track from start to finish, fitting all the clips in during that time. I'm basically shooting a music video. And lastly, the easiest thing for me is that I am always behind the camera so never have to be the subject which is just as well as I hate to see or hear myself in any media. I just have to try and take the time to capture a variety of footage with a camera that will pretty much do the job automatically as long as I point it in the right direction. Ok, maybe I’m being a little hard on myself, but you get the idea.
 
 The thing is, I want to get better, and I don’t always want to have to wait for a family holiday or birthday to make something. So I need to remove these comfort blankets, move to be in front of the camera, and address my dislike of my own voice and appearance. I want to make something that people whom I’ve never met, may want to watch. For me, that’s pretty terrifying, but challenging. I’m not saying I want to make a feature film, or have a ‘crew’, but I think I'd like to make some simple films by myself.
 
