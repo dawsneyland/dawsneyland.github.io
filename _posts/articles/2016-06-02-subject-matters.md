@@ -1,16 +1,15 @@
 ---
+layout: post
 title: "Subject Matters"
 excerpt: "Time to list the many things I want to talk about in this Blog"
-description: "Filmmaking, photography, family, projects"
-date: 2016-02-10 12:00:00
-header:
-  image: books.jpg
-  teaser: books.jpg
-  caption: "Photo credit: **Martin Dawson**"
-categories:
-  - Blog
-tags:
-  - blog
+categories: articles
+tags: blog
+modified: 2016-06-02
+image:
+  feature: books.jpg
+  credit: "Photo credit: **Martin Dawson**"
+comments: true
+share: true
 ---
 
 Post number one was short, post number two was rambling on about where to start, and now on to post number three. No more stalling! This is the stuff I want to cover in this Blog.
