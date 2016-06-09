@@ -7,7 +7,6 @@ tags: [family, filmmaking]
 modified: 2016-06-09
 image: 
   feature: camerathin.jpg
-  credit: Martin Dawson
 comments: true
 share: true
 ---
