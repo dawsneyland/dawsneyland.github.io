@@ -6,8 +6,8 @@ categories: blog
 tags: blog
 modified: 2016-06-02
 image:
-  feature: books.jpg
-  credit: "Photo credit: **Martin Dawson**"
+  feature: booksthin.jpg
+  credit: "Martin Dawson"
 comments: true
 share: true
 ---
