@@ -1,16 +1,15 @@
 ---
+layout: post
 title: "Why I Like Making Family Videos"
 excerpt: "Although the audience is limited, I love making family videos"
-description: "Family videos and filmmaking"
-date: 2016-02-19 12:00:00
-header:
-  image: camera.jpg
-  teaser: camera.jpg
-  caption: "Photo credit: **Martin Dawson**"
-categories:
-  - Filmmaking
-tags:
-  - family
+categories: articles
+tags: [family, filmmaking]
+modified: 2016-06-09
+image:
+  feature: camera.jpg
+  credit: "Photo credit: **Martin Dawson**"
+comments: true
+share: true
 ---
 Last week I was away for a long weekend with my family, and as has become the norm in the last year, I took lots of video of my son and his cousins. Now I’m back from the weekend, it’s time to do what I normally do; import all of the footage, edit the best bits against a backdrop of one of my favourite songs whose lyrics are acceptable for all of my family, upload it to YouTube and let everyone know how to access it. I upload it to YouTube as unlisted, because it's for the eyes of the family only, and to be honest they're the only people likely to be interested anyway.
 
@@ -18,7 +17,7 @@ I love doing this. Why? For a start, it’s just a different way to document a f
 
 I've learned that capturing the video is only one aspect of making the films. I never expected to enjoy the process, but that is such a crucial part of the end result and if you're happy with the final film, then the post production process will have had an awful lot to do with it. Even though it’s pretty basic and I don’t have advanced software, tools or equipment, I am in full control of how to put the video together, which clips to use, what kind of mood I want to set. My only limitation is my own ability to capture the shots I want, and the lack of the tools with all the bells and whistles make it more challenging too.
 
-Another reason I enjoy doing this is the reaction it gets from my family. They are genuinely moved by the videos, and I’m starting to think they’d be disappointed if I didn’t make them – although it’s quite possible I’m mistaken. This is relatively new to them as an alternative method of capturing a memory, but it’s certainly something they are open to and don’t mind me pointing a camera at them or their offspring for minutes at a time when we’re all trying to enjoy an occasion. 
+Another reason I enjoy doing this is the reaction it gets from my family. They are genuinely moved by the videos, and I’m starting to think they’d be disappointed if I didn’t make them – although it’s quite possible I’m mistaken. This is relatively new to them as an alternative method of capturing a memory, but it’s certainly something they are open to and don’t mind me pointing a camera at them or their offspring for minutes at a time when we’re all trying to enjoy an occasion.
 
 It does my mental health the world of good when I've made a film and distributed it to the handful of people who will be interested it.
 
