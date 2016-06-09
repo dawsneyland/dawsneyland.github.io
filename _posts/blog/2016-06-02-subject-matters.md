@@ -2,7 +2,7 @@
 layout: post
 title: "Subject Matters"
 excerpt: "Time to list the many things I want to talk about in this Blog"
-categories: articles
+categories: blog
 tags: blog
 modified: 2016-06-02
 image:

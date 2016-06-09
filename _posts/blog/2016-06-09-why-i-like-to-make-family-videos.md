@@ -2,7 +2,7 @@
 layout: post
 title: "Why I Like Making Family Videos"
 excerpt: "Although the audience is limited, I love making family videos"
-categories: articles
+categories: blog
 tags: [family, filmmaking]
 modified: 2016-06-09
 image:
