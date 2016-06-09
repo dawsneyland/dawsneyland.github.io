@@ -2,6 +2,8 @@
 layout: page
 title: Articles
 excerpt: "An archive of articles sorted by date."
+image:
+  feature: penpaperthin.jpg
 search_omit: true
 ---
 
