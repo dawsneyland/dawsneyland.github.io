@@ -5,14 +5,12 @@ excerpt: "Although the audience is limited, I love making family videos"
 categories: blog
 tags: [family, filmmaking]
 modified: 2016-06-09
+image: 
+  feature: camerathin.jpg
+  credit: Martin Dawson
 comments: true
 share: true
 ---
-
-<figure>
-	<img src="{{ site.url }}/images/camera.jpg" alt="camera">
-	<figcaption>Erm... can someone give me my face back, please.</figcaption>
-</figure>
 
 Last week I was away for a long weekend with my family, and as has become the norm in the last year, I took lots of video of my son and his cousins. Now I’m back from the weekend, it’s time to do what I normally do; import all of the footage, edit the best bits against a backdrop of one of my favourite songs whose lyrics are acceptable for all of my family, upload it to YouTube and let everyone know how to access it. I upload it to YouTube as unlisted, because it's for the eyes of the family only, and to be honest they're the only people likely to be interested anyway.
 
