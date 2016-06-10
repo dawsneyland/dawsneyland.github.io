@@ -5,13 +5,16 @@ excerpt: "Time to list the many things I want to talk about in this Blog"
 categories: blog
 tags: blog
 modified: 2016-06-02
-image:
-  feature: booksthin.jpg
 comments: true
 share: true
 ---
 
 At the time of writing, I feel that the direction for this blog is a little unfocused. Why is that? Well, if I list some of the subjects I might want to write about then that should demonstrate what I mean. This is the stuff I want to cover in this Blog.
+
+<figure>
+    <img src="/images/books.jpg" alt="Books">
+    <figcaption>Worst. Library. Ever!</figcaption>
+</figure>
 
 ## The Blog! 
 Ok, I'm cheating a bit, but this is new to me and one of the things I'm interested in is starting a Blog and having an online presence, so periodically I will talk about how things are going.
