@@ -12,7 +12,7 @@ share: true
 At the time of writing, I feel that the direction for this blog is a little unfocused. Why is that? Well, if I list some of the subjects I might want to write about then that should demonstrate what I mean. This is the stuff I want to cover in this Blog.
 
 <figure>
-    <img src="/images/books.jpg" alt="Books">
+    <img src="{{ site.url }}/images/books.jpg" alt="Books">
     <figcaption>Worst. Library. Ever!</figcaption>
 </figure>
 
