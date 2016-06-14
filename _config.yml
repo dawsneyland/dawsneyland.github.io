@@ -5,7 +5,7 @@ locale: en_GB
 description: Stuff I write about stuff I like!
 logo: secondlogo.png
 search: true
-url: http://martsvideoclub.github.io/martsbc
+url: http://www.dawsneyland.com
 
 # Jekyll configuration
 
@@ -38,14 +38,14 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 owner:
   name: Mart
   avatar: dustsquare.jpg
-  email: martsblogclub@gmail.com
+  email: dawsneyland@gmail.com
   disqus-shortname:
-  twitter: martsblogclub
+  twitter: dawsneyland
   facebook: #username
   github: #username
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: martsblogclub
+  instagram: dawsneyland
   flickr: #username
   tumblr: #username
   pinterest: #username
