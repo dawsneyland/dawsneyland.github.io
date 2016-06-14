@@ -2,15 +2,15 @@
 layout: post
 title: "Why I Like Making Family Videos"
 excerpt: "Although the audience is limited, I love making family videos"
-categories: articles
+categories: blog
 tags: [family, filmmaking]
 modified: 2016-06-09
-image:
+image: 
   feature: camera.jpg
-  credit: "Photo credit: **Martin Dawson**"
 comments: true
 share: true
 ---
+
 Last week I was away for a long weekend with my family, and as has become the norm in the last year, I took lots of video of my son and his cousins. Now I’m back from the weekend, it’s time to do what I normally do; import all of the footage, edit the best bits against a backdrop of one of my favourite songs whose lyrics are acceptable for all of my family, upload it to YouTube and let everyone know how to access it. I upload it to YouTube as unlisted, because it's for the eyes of the family only, and to be honest they're the only people likely to be interested anyway.
 
 I love doing this. Why? For a start, it’s just a different way to document a family event, or a day out. Photos are great and I still enjoy taking them too and printing the best ones to put up around the house or share with the family, but video gives something different, something powerful, in a way that photos can’t. Movement. I know it sounds obvious to suggest that videos move more than photos, and everyone knows that, but with that movement comes a different experience, capturing different things.
@@ -21,9 +21,9 @@ Another reason I enjoy doing this is the reaction it gets from my family. They a
 
 It does my mental health the world of good when I've made a film and distributed it to the handful of people who will be interested it.
 
-Although I’d like to think that my close family enjoy these videos because I’m a talented filmmaker, the reality is that this end result is straight forward to achieve. For a start, I’m filming things they will want to see… their children, their Nephews and Nieces. I discard all the naff stuff and keep the good content. Also, I don’t have to provide any dialogue. I just chose a song to set the tone and let it play as the background track from start to finish, fitting all the clips in during that time. I'm basically shooting a music video. And lastly, the easiest thing for me is that I am always behind the camera so never have to be the subject which is just as well as I hate to see or hear myself in any media. I just have to try and take the time to capture a variety of footage with a camera that will pretty much do the job automatically as long as I point it in the right direction. Ok, maybe I’m being a little hard on myself, but you get the idea.
+Although I’d like to think that my close family enjoy these videos because I’m a talented filmmaker, the reality is that this end result is straight forward to achieve. For a start, I’m filming things they will want to see… their children, their Nephews and Nieces. I discard all the naff stuff and keep the good content. Also, I don’t have to provide any dialogue. I just choose a song to set the tone and let it play as the background track from start to finish, fitting all the clips in during that time. I'm basically shooting a music video. And lastly, the easiest thing for me is that I am always behind the camera so never have to be the subject which is just as well as I hate to see or hear myself in any media. I just have to try and take the time to capture a variety of footage with a camera that will pretty much do the job automatically as long as I point it in the right direction. Ok, maybe I’m being a little hard on myself, but you get the idea.
 
-The thing is, I want to get better, and I don’t always want to have to wait for a family holiday or birthday to make something. So I need to remove these comfort blankets, move to be in front of the camera, and address my dislike of my own voice and appearance. I want to make something that people whom I’ve never met, may want to watch. For me, that’s pretty terrifying, but challenging. I’m not saying I want to make a feature film, or have a ‘crew’, but I think I'd like to make some simple films by myself.
+The thing is, I want to get better, and I don’t always want to have to wait for a family holiday or birthday to make something. So I need to remove these comfort blankets, move to be in front of the camera, and address my dislike of my own voice and appearance. I want to make something that people who I’ve never met, may want to watch. For me, that’s pretty terrifying, but challenging. I’m not saying I want to make a feature film, or have a ‘crew’, but I think I'd like to make some simple films by myself.
 
 The reason I started watching videos online was because after my father died, I remembered that he had performed on a TV show as part of a choir he sang in. He was prominently placed in the front row of the choir, so was visible most of the time. I desperately wanted to see my Dad moving rather than just smiling in a photo, so I turned to YouTube; surely someone had uploaded this show? They had. And this helped me tremendously. And it got me sold on the essence of YouTube.
 
