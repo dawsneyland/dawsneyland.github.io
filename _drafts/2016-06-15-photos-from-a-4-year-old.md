@@ -17,6 +17,11 @@ It soon transpired that we had an unexpected member of camera club - my 4-year-o
 
 When I was copying the pictures off the memory card, I had a look at the times. He took his first picture at 16:25 and the last 18 minutes later. In that time, he took 290 pictures. 290. 16 every minute, or one every four seconds. And for the record, my wifes camera didn't have continuous shooting so one press of the shutter equals one picture. He didn't have that camera for long before the battery gave up, but all the time that it was in his hands, he was going for it!
 
+<figure>
+    <img src="{{ site.url }}/images/post0501.jpg" alt="Boot and Ball">
+    <figcaption>Boot it!!</figcaption>
+</figure>
+
 
 
 
