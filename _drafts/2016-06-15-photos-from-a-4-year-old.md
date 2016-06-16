@@ -2,9 +2,11 @@
 layout: post
 title: "Photos from a 4-year-old"
 excerpt: "The inaugaural Camera Club had an unexpected contributor."
-categories: blog
-tags: blog
-modified: 2016-06-15
+image: 
+  feature: post0501.jpg
+categories: photography
+tags: photography
+modified: 2016-06-16
 comments: true
 share: true
 ---
