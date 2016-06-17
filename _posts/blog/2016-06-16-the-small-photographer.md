@@ -8,14 +8,14 @@ comments: true
 share: true
 ---
 
-Recently I was able to start something I had been meaning to do for months - Camera Club! My Nephew received a camera for Christmas, and along with my Father-in-law, we had been looking for an opportunity to just take our cameras out, and snap away. It's not always easy finding a time that everyone is available, and so one of the first opportunities to do this was in May, on a sunny Sunday afternoon. Our garden was full of bluebells in bloom so we choose that as our subject matter.
+Recently I was able to start something I had been meaning to do for months - Camera Club! My Nephew received a camera for Christmas, and along with my Father-in-law, we were all interested in just taking our cameras out, and snapping away. It's not always easy finding a time that everyone is available, and so one of the first opportunities to do this was in May, on a sunny Sunday afternoon. Our garden was full of bluebells in bloom so we choose that as our subject matter.
 <figure>
     <img src="{{ site.url }}/images/post0501.jpg">
     <figcaption>Go on my son, boot it!</figcaption>
 </figure>
-It soon transpired that we had an unexpected member of Camera Club - my 4-year-old son Dylan. When any of his family is performing the most mundane of tasks, he wants to be a part of it, so I guess it wasn't too much of a surprise that he wanted in on Camera Club. I poured over the club rules and determined that he was allowed to join us, so my wife dug out her camera, gave him a quick tutorial, and he was off. Let's see the results.
+It soon transpired that we had an unexpected member of Camera Club - my 4-year-old son Dylan. When any of the family are performing the most mundane of tasks, he wants to be a part of it, so I guess it wasn't too much of a surprise that he wanted in on Camera Club. I poured over the club rules and determined that he was allowed to join us, so my wife dug out her camera, gave him a quick tutorial, and he was off. Let's see the results.
 
-Incidentally, when I was copying the pictures off the memory card, I had a look at the times. From the first picture taken to the last, there was only 18 minutes in between. In that time, he took 290 pictures. 290! 16 every minute, or one every four seconds. And for the record, my wifes camera lacks continuous shooting so one press of the shutter equals one picture. He didn't have the camera for long before the battery gave up, but all the time that it was in his hands, he was going for it!
+Incidentally, when I was copying the pictures off the memory card, I noticed something. From the first picture taken to the last, there was only 18 minutes in between. In that time, he took 290 pictures. 290! 16 every minute, or one every four seconds. And for the record, my wifes camera lacks continuous shooting so one press of the shutter equals one picture. He didn't have the camera for long before the battery gave up, but all the time that it was in his hands, he was going for it!
 
 Initially there were quite a few of these pictures. Waists and wrists.
 <figure>
@@ -49,9 +49,9 @@ I'll spare you the other 284 pictures, after all whether you're 4 or 40, don't y
 
 Of course, there has been an element of post production on the pictures but only at the most basic level. Increasing the contrast where necessary, and I've compressed them to a level that will allow my to show a few of them on this web page. Dylan has not got that in his armoury yet. Perhaps I'll introduce him to Adobe next...
 
-I will definitely be including Dylan in future camera club outings. He took some great pictures and it was such a lovely experience to review the pictures he took on the day. It gave a tiny glimpse of the world through his eyes. Well, 290 glimpses in 18 minutes. 
+I will definitely be including Dylan in future Camera Club outings. He took some great pictures and it was such a lovely experience to review the pictures he took on the day. It gave a tiny glimpse of the world through his eyes. Well, 290 glimpses in 18 minutes!
 
-Most of all, he enjoyed it, felt like he was doing the same as us and his results were just as good. I thought he might learn something from the experience, and no doubt he did, but he certainly taught me a thing or two, and I'll treasure that.
+Most of all, he enjoyed it, felt a part of what we were doing, and his pictures were really interesting. I thought he might enjoy the experience and maybe learn something, and no doubt he did, but unexpectedly I learned plenty from him too. I should really search for my inner child a bit more often.
 <figure>
     <img src="{{ site.url }}/images/post0509.jpg">
 </figure>
