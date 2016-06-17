@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Photos from a 4-year-old"
+title: "The Small Photographer"
 excerpt: "The inaugaural Camera Club had an unexpected contributor."
 image: 
   feature: post0501.jpg
-categories: photography
-tags: photography
-modified: 2016-06-17
+categories: [photography, family]
+tags: [photography, family]
 comments: true
 share: true
 ---
@@ -37,11 +36,11 @@ Getting a bit more adventurous, it wasn't long before he was picking things out 
 <figure>
     <img src="{{ site.url }}/images/post0506.jpg">
 </figure>
-The result is not going to win any awards anytime soon, but it demonstrates a level of control. Now just need to show him where the zoom control is.
+The resulting picture of a plane is not going to win any awards anytime soon, but it demonstrates a level of control, and he was definitely aiming for that. Now I just need to show him where the zoom control is.
 <figure>
     <img src="{{ site.url }}/images/post0507.jpg">
 </figure>
-I'm not that keen on pictures if myself, but I quite like this one that he took off me.
+I'm not that keen on pictures of myself, but I quite like this one that he took off me.
 <figure>
     <img src="{{ site.url }}/images/post0508.jpg">
 </figure>
