@@ -24,7 +24,6 @@ Initially there were quite a few of these pictures. Waists and wrists.
 But it wasn't long before he started choosing subjects. Bottom line, pick something to take a picture of and get it in the frame. As a four-year-old that's a pretty good objective initially.
 <figure>
     <img src="{{ site.url }}/images/post0503.jpg">
-    <figcaption>Boot it!!</figcaption>
 </figure>
 He got a little help from his Cousin...
 <figure>
