@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Photos from a 4-year-old"
+title: "The Small Photographer"
 excerpt: "The inaugaural Camera Club had an unexpected contributor."
 image: 
   feature: post0501.jpg
-categories: photography
-tags: photography
+categories: [photography, family]
+tags: [photography, family]
 comments: true
 share: true
 ---
