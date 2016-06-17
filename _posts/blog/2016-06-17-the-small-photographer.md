@@ -2,7 +2,7 @@
 layout: post
 title: "The Small Photographer"
 excerpt: "The inaugaural Camera Club had an unexpected contributor."
-categories: [photography, family]
+categories: blog
 tags: [photography, family]
 comments: true
 share: true
