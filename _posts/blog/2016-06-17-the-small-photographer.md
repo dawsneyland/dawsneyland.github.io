@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-Recently I was able to start something I had been meaning to do for months - Camera Club! My Nephew received a camera for Christmas, and along with my Father-in-law, we were all interested in just taking our cameras out, and snapping away. It's not always easy finding a time that everyone is available, and so one of the first opportunities to do this was in May, on a sunny Sunday afternoon. Our garden was full of bluebells in bloom so we choose that as our subject matter.
+Recently I was able to start something I had been meaning to do for months - Camera Club! My Nephew received a camera for Christmas, and along with my Father-in-law, we were all interested in just taking our cameras out, and snapping away. It's not always easy finding a time that everyone is available, and so one of the first opportunities to do this was in May, on a sunny Sunday afternoon. Our garden was full of bluebells in bloom so we chose that as our subject matter.
 <figure>
     <img src="{{ site.url }}/images/post0501.jpg">
     <figcaption>Go on my son, boot it!</figcaption>
@@ -47,7 +47,7 @@ I'm not that keen on pictures of myself, but I quite like this one that he took.
 </figure>
 I'll spare you the other 284 pictures, after all whether you're 4 or 40, don't you just select the best of the batch anyway?! 
 
-Of course, there has been an element of post production on the pictures but only at the most basic level. Increasing the contrast where necessary, and I've compressed them to a level that will allow my to show a few of them on this web page. Dylan has not got that in his armoury yet. Perhaps I'll introduce him to Adobe next...
+Of course, there has been an element of post production on the pictures but only at the most basic level. Increasing the contrast where necessary, and I've compressed them to a level that will allow me to show a few of them on this web page. Dylan has not got that in his armoury yet. Perhaps I'll introduce him to Adobe next...
 
 I will definitely be including Dylan in future Camera Club outings. He took some great pictures and it was such a lovely experience to review the pictures he took on the day. It gave a tiny glimpse of the world through his eyes. Well, 290 glimpses in 18 minutes!
 
