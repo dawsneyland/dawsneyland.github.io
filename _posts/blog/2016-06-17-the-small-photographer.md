@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Small Photographer"
-excerpt: "The inaugaural Camera Club had an unexpected contributor."
+excerpt: "The inaugural Camera Club had an unexpected contributor."
 categories: blog
 tags: [photography, family]
 comments: true
@@ -13,7 +13,7 @@ Recently I was able to start something I had been meaning to do for months - Cam
     <img src="{{ site.url }}/images/post0501.jpg">
     <figcaption>Go on my son, boot it!</figcaption>
 </figure>
-It soon transpired that we had an unexpected member of Camera Club - my 4-year-old son Dylan. When any of the family are performing the most mundane of tasks, he wants to be a part of it, so I guess it wasn't too much of a surprise that he wanted in on Camera Club. I poured over the club rules and determined that he was allowed to join us, so my wife dug out her camera, gave him a quick tutorial, and he was off. Let's see the results.
+It soon transpired that we had an unexpected member of Camera Club - my 4-year-old son Dylan. When any of the family are performing the most mundane of tasks, he wants to be a part of it, so I guess it wasn't too much of a surprise that he wanted in on Camera Club. I poured over the club rules and concluded that he was allowed to join us, so my wife dug out her camera, gave him a quick tutorial, and he was off. Let's see the results.
 
 Incidentally, when I was copying the pictures off the memory card, I noticed something. From the first picture taken to the last, there was only 18 minutes in between. In that time, he took 290 pictures. 290! 16 every minute, or one every four seconds. And for the record, my wifes camera lacks continuous shooting so one press of the shutter equals one picture. He didn't have the camera for long before the battery gave up, but all the time that it was in his hands, he was going for it!
 
@@ -33,7 +33,7 @@ He got a little help from his Cousin...
 <figure>
     <img src="{{ site.url }}/images/post0505.jpg">
 </figure>
-Getting a bit more adventurous, aiming for moving objests in the sky.
+Getting a bit more adventurous, aiming for moving objects in the sky.
 <figure>
     <img src="{{ site.url }}/images/post0506.jpg">
 </figure>
