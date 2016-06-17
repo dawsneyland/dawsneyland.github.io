@@ -28,27 +28,22 @@ But it wasn't long before he started choosing subjects. Bottom line, pick someth
 He got a little help from his Cousin...
 <figure>
     <img src="{{ site.url }}/images/post0504.jpg">
-    <figcaption>Boot it!!</figcaption>
 </figure>
 ...and whilst doing so, he captured some nice shadows of them both.
 <figure>
     <img src="{{ site.url }}/images/post0505.jpg">
-    <figcaption>Boot it!!</figcaption>
 </figure>
 Getting a bit more adventurous, it wasn't long before he was picking things out that he liked the look of.
 <figure>
     <img src="{{ site.url }}/images/post0506.jpg">
-    <figcaption>Boot it!!</figcaption>
 </figure>
 The result is not going to win any awards anytime soon, but it demonstrates a level of control. Now just need to show him where the zoom control is.
 <figure>
     <img src="{{ site.url }}/images/post0507.jpg">
-    <figcaption>Boot it!!</figcaption>
 </figure>
 I'm not that keen on pictures if myself, but I quite like this one that he took off me.
 <figure>
     <img src="{{ site.url }}/images/post0508.jpg">
-    <figcaption>Boot it!!</figcaption>
 </figure>
 
 I'll spare you the other 284 pictures, after all whether you're 4 or 40, don't you just select the best of the batch anyway?! 
