@@ -3,6 +3,15 @@ layout: post
 title: "The Beauty of Jekyll"
 ---
 
+A brief history of my web design experience... at the turn of the millenium I had a Geocities site. Four years later I was posting regularly to Blogger. Wordpress caught my attention shortly after that, but then I entered an online wilderness... until now. The reason for this on-off relationship being back on, is Jekyll!
+
+##What is Jekyll?
+Jekyll is a Static Site Generator.
+
+##What's wrong with Wordpress?
+There's nothing wrong with Wordpress. 
+
+
 I'm very new to the web design world. My interest in it goes way back to when you could get a Geocities site, and I messed around with that but I abandoned it almost as soon as I started. I wrote a website for potential business and was pretty pleased with the results but when my interest in the business subsided, so did my interest in the website that accompanied it. 
 
 Shortly after that, I heard a new word - blog. In 2004 it was **the** word, and it coincided with me working abroad and 
