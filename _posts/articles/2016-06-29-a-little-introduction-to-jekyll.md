@@ -2,7 +2,7 @@
 layout: post
 title: "A little introduction to Jekyll"
 excerpt: "I'm using Jekyll to create this website, and I thought I'd tell you why."
-categories: article
+categories: articles
 tags: [web design]
 comments: true
 share: true
