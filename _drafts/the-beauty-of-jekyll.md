@@ -2,38 +2,39 @@
 layout: post
 title: "The Beauty of Jekyll"
 ---
+This post is all about the platform I use to write and host this website. If that’s not your thing, don’t read any further. Come back another day when I will be talking about things other than content management and version control systems.
 
-A brief history of my web design experience... at the turn of the millenium I had a Geocities site. Four years later I was posting regularly to Blogger. Wordpress caught my attention shortly after that, but then I entered an online wilderness... until now. The reason for this on-off relationship being back on, is Jekyll!
+If you’re still here, I will give you a brief history of my web design experience... at the turn of the Millennium I had a [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) site. Four years later I was posting regularly to [Blogger]( https://blogger.com/). Shortly after that, [Wordpress caught my attention]( https://wordpress.org/) briefly, but then I entered an online wilderness... until now. The reason? [Jekyll]( https://jekyllrb.com/)!
 
 ##What is Jekyll?
-Jekyll is a Static Site Generator.
+[Jekyll]( https://jekyllrb.com/) is a Static Site Generator.
+
+##What is that?
+A Static Site Generator is an engine that produces a static website. Using a combination of templates and code, the engine will spit out a set of static webpages that can be served from your webserver of choice. Because it is static, there is no database and so it can’t be hacked. It’s blog aware so excellent as a content management system for bloggers. Static webpages mean less moving parts, so it’s really fast. Finally, [this can all be managed through Github Pages]( https://pages.github.com/) who will also host your site for free. There is so much to love about Jekyll!
 
 ##What's wrong with Wordpress?
-Firstly, there's nothing wrong with Wordpress. I'm a massive fan of the most popular CMS on the web, and aside from this website, I have another website that I post to regularly and it is powered entirely by Wordpress. But it's not the only kid on the block. There are times that I've wanted to switch this site to WordPress site because it's so damn easy to get content out there. But that's one of the reasons I want to try other things. Wordpress almost allows you to publish content before you've really thought about what you want. Whilst everything takes me a bit longer on Jekyll, I have to make more conscious decisions about what content I want to publish and how i want pages to look, and once I've made these decisions I have the ability to get exactly what I want, rather than what a theme will offer me. The only caveat is that I have to code it myself. 
+Nothing! I'm a massive fan of the most popular content management system on the web, and aside from this website, I also post I post to regularly to another site and it is powered entirely by Wordpress. However it’s not perfect; Wordpress sites are vulnerable to security issues and the web pages themselves can be very heavy causing your site to be quite sluggish. It’s not the only kid on the block and whilst there are times that I've wanted to switch this site to WordPress because it's so much easier to get content out there, that's also one of the reasons I want to try other things. Wordpress is so easy, it almost allows you to publish content before you've really thought about what you want. Whilst everything takes me a bit longer on Jekyll, I have to make more conscious decisions about what content I want to publish and how I want pages to look, and once I've made these decisions I have the ability to get exactly what I want, provided I can code it myself. With Wordpress, I have to work within what the theme can offer me. 
+
+##But you’re using a theme on Jekyll, so what’s the difference?
+This is very true, and I have excellent reasons for going this way. The theme I’m using has been written by an extremely generous man from New York called [Michael Rose] ( https://mademistakes.com/). He is a designer who has created Jekyll themes, free for people to use, and in a variety of flavours. I’ve chosen one to get me off the ground because, ultimately I’m not blessed with loads of time to create something. Also I’m not a designer, and a theme not only gives you the technology on which to base your content, but also someone has designed it. [Michael Rose has designed and written these themes]( https://mademistakes.com/work/jekyll-themes/) and has documented them for people to pick up and use as they wish. Not many people do this as well as he has, and even fewer do not expect payment. The idea is I use this theme and hack away at it over time. I’ve already embellished it, and over time I can pick and choose parts to change, and to add to it. The main reason for me using the theme was that starting from scratch was actually stopping me doing anything, so I had to be pragmatic and use a base theme so as I could at least start writing and publishing content. I’ll have time for coding later on.
 
 ##Great, so why isn't every site made using Jekyll?
-Because Jekyll has limitations. You will not be able to have any dynamic content for example, unless you shoehorn it in using JavaScript. Also, not everyone can code, and even if they can, they might not want to. It's a bit like homemade pasta; it takes much longer and tastes just as good as if you picked it up off the shelf in the supermarket!
+Because Jekyll has limitations. You will not be able to have any dynamic content for example, unless you shoehorn it in using JavaScript. Also, not everyone can code, and even if they can, they might not want to. It's a bit like homemade pasta; it takes much longer and the end product is just as good as if you picked it up off the shelf in the supermarket!
 
-##Why are **you** using Jekyll?
-I really like coding, and I don't get the opportunity to code these days. If you want to code, you need a project to work on and a personal website is a pretty good example of that. Jekyll allows me to scratch the coding itch that I have, and I can choose how far I want to go with it. I can access my code anywhere by managing it all through Github Pages, which will also host my site for free whilst it stays below a certain size. 
+##Why are *you* using Jekyll?
+I really like coding, and I don't get the opportunity to do that these days. If you want to code, you need a project to work on and a personal website is a pretty good example of that. Jekyll allows me to scratch my coding itch, and I can choose how far I want to go with it. I can access my code anywhere by managing it all through Github Pages, which will also host my site for free whilst it stays below a certain size. 
 
+##Why all these questions?
+It just sort of happened. Anyway, you’re the one asking them aren’t you?!
 
+##True, so why are you telling me about this?
+Firstly, I wanted to write a post to credit Michael Rose for his excellent work in developing these themes. Secondly, Jekyll is way down the list on the most popular blogging platforms. I think there are lots of people who have never heard of it, but would be interested in the principle. People who, like me, aren’t developers but have an interest in coding. It seriously encourage them to check out the [Jekyll website]( https://jekyllrb.com/) and have a play. I’ve learned so much, even if I could have done the same thing n Wordpress in a fraction of the time. Getting a website up and running in the quickest time possible isn’t really the point.
 
+##So are you going to keep us updated with how your journey in to Jekyll progresses?
+Abso-bloody-lutely! It’s a huge topic, and this site is far from the finished product. But this blog won’t be just about web development, so it might be a while before I revisit the topic.
 
+##Oh... what else are you going to write about?
+I don’t know, any suggestions?
 
-I'm very new to the web design world. My interest in it goes way back to when you could get a Geocities site, and I messed around with that but I abandoned it almost as soon as I started. I wrote a website for potential business and was pretty pleased with the results but when my interest in the business subsided, so did my interest in the website that accompanied it. 
-
-Shortly after that, I heard a new word - blog. In 2004 it was **the** word, and it coincided with me working abroad and 
-travelling, so the perfect opportunity to share stories and pictures of my travels with family and friends back home. 
-This captured my imagination a lot more, and I kept on blogging here for over a year, until I no longer had a reason to share.
-
-And that is where my online presence took a decade long hiatus. 
-
-I don't think that I've been any less interested in web design, but life has thrown many balls my way - some good, some bad and my mind hasn't always been able to cope. I like writing, even if I'm not particularly good at it, and last year I thought that maybe I had some room in my life to get back in to this geeky pleasure.
-
-In the ten years that I haven't been paying attention, the world of web design and blogging has moved on considerably, but the reasons to blog haven't. 
-
-
-What's the problem with Wordpress?
-I first heard about Wordpress a number of years ago, and liked the idea of it. So I started
-
+##How about something to do with the humble GoPro camera?
+Interesting, I’ll see what I can do.
