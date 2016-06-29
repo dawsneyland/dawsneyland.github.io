@@ -13,6 +13,7 @@ If you’re still here, I will give you a brief history of my web design experie
 <figure>
     <img src="{{ site.url }}/images/jekyll.jpg">
 </figure>
+
 ## What is Jekyll?
 [Jekyll]( https://jekyllrb.com/) is a Static Site Generator.
 
