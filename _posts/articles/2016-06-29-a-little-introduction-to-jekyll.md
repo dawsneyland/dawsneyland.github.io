@@ -9,7 +9,7 @@ share: true
 ---
 This post is all about the platform I use to write and host this website. If that’s not your thing, don’t read any further. Come back another day when I will be talking about things other than content management and version control systems.
 
-If you’re still here, I will give you a brief history of my web design experience... at the turn of the Millennium I had a [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) site. Four years later I was posting regularly to [Blogger]( https://blogger.com/). Shortly after that, [Wordpress caught my attention]( https://wordpress.org/) briefly, but then I entered an online wilderness... until now. I have returned to the word of web design, because of [Jekyll]( https://jekyllrb.com/)!
+If you’re still here, I will give you a brief history of my web design experience... at the turn of the Millennium I had a [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) site. Four years later I was posting regularly to [Blogger]( https://blogger.com/). Shortly after that, [Wordpress caught my attention]( https://wordpress.org/) briefly, but then I entered an online wilderness... until now. I have returned to the world of web design, because of [Jekyll]( https://jekyllrb.com/)!
 <figure>
     <img src="{{ site.url }}/images/jekyll.jpg">
 </figure>
