@@ -1,13 +1,21 @@
 ---
 layout: post
-title: "The Beauty of Jekyll"
+title: "A little introduction to Jekyll"
+excerpt: "I'm using Jekyll to create this website, and I thought I'd tell you why."
+categories: article
+tags: [web design]
+comments: true
+share: true
 ---
 This post is all about the platform I use to write and host this website. If that’s not your thing, don’t read any further. Come back another day when I will be talking about things other than content management and version control systems.
 
-If you’re still here, I will give you a brief history of my web design experience... at the turn of the Millennium I had a [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) site. Four years later I was posting regularly to [Blogger]( https://blogger.com/). Shortly after that, [Wordpress caught my attention]( https://wordpress.org/) briefly, but then I entered an online wilderness... until now. The reason? [Jekyll]( https://jekyllrb.com/)!
+If you’re still here, I will give you a brief history of my web design experience... at the turn of the Millennium I had a [Geocities](https://en.wikipedia.org/wiki/Yahoo!_GeoCities) site. Four years later I was posting regularly to [Blogger]( https://blogger.com/). Shortly after that, [Wordpress caught my attention]( https://wordpress.org/) briefly, but then I entered an online wilderness... until now. I have returned to the word of web design, because of [Jekyll]( https://jekyllrb.com/)!
 
 ##What is Jekyll?
 [Jekyll]( https://jekyllrb.com/) is a Static Site Generator.
+<figure>
+    <img src="{{ site.url }}/images/jekyll.jpg">
+</figure>
 
 ##What is that?
 A Static Site Generator is an engine that produces a static website. Using a combination of templates and code, the engine will spit out a set of static webpages that can be served from your webserver of choice. Because it is static, there is no database and so it can’t be hacked. It’s blog aware so excellent as a content management system for bloggers. Static webpages mean less moving parts, so it’s really fast. Finally, [this can all be managed through Github Pages]( https://pages.github.com/) who will also host your site for free. There is so much to love about Jekyll!
