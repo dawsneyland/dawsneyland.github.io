@@ -1,6 +1,19 @@
 ---
+layout: post
+title: "It's OK to neglect your GoPro!"
+excerpt: "I bought a GoPro and have mostly never used it."
+categories: blog
+tags: [filmmaking]
+comments: true
+share: true
 ---
+
 GoPro – this word is to action cameras, what Hoover is to vacuum cleaners. I remember when I first heard of a GoPro. It must have been 2 years ago whilst watching something on YouTube. Very quickly after realising that they exist, I was all over Amazon checking out prices, options, reading buyers comments. My conclusion was the question ‘Why would you spend over £300 on something so lacking in features?’. Needless to say, I now own one!
+
+<figure>
+    <img src="{{ site.url }}/images/gopro.jpg">
+    <figcaption>Number 5, alive</figcaption>
+</figure>
 
 I’m a bit of a sucker for a gadget, however I’m not someone who commits to spending money spontaneously on things that I basically don’t need. My initial introduction to the GoPro came about because I wanted to buy a new camera. A point-and-shoot. My current camera at the time was a Samsung Galaxy S4, which was and still is in fact a smartphone. The integrated cameras of smartphones have improved in quality so much however they will never beat a half decent compact camera, so I set about looking for one to buy and during this process I stumbled upon the GoPro. I quickly established that for a rather hefty price tag, you got no image stabilisation, a small sensor, no zoom, fisheye effect. It didn’t seem like value for money. I needed something more versatile, and so the GoPro disappeared from my consciousness, never to return, or so I thought.
 
